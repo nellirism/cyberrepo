@@ -1,8 +1,15 @@
 # cyberrepo
 Cybersecurity Bootcamp Repository of Nell-e Medina
 
+What did you build through Azure?
+
+
+
 
 Below is a sample findings from using Kibana established through the ELK server:
+
+
+Diagram :https://drive.google.com/file/d/1MAhXze4uWWBvHWH3OTnslo7gPg6GhBkC/view?usp=sharing
 
 Kibana Findings
 Source IP of the Unique Visitor using a number of bytes that is considerably higher than all other usages: 
