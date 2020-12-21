@@ -1,0 +1,4 @@
+#! /bin/bash
+firefox https://bootcampspot.com/login --new-tab -url https://www.spotify.com/us/ --new-tab -url https://cyware.com/hacker-news &
+
+#curl --data "Username=xx&Password=xx&Login=Login" https://bootcampspot.com/login
