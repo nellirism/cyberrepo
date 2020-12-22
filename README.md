@@ -18,7 +18,7 @@ The files in this repository were used to configure the network depicted below.
 
 https://github.com/nell-e/cyberrepo/blob/main/Diagrams/ELK%20Diagram%20(1).JPG
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the myplaybook2elk.yml file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the myplaybook2elk.yml file and filebeat-playbook.yml file may be used to install only certain pieces of it, such as Filebeat.
 
    https://github.com/nell-e/cyberrepo/blob/main/Ansible/filebeat-playbook.yml
    
