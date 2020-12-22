@@ -9,7 +9,7 @@ In the Ansible directory, you will find three (3) playbooks that were used to co
 
 In the Linux Directory you will find a collection of bash scripts I have written as part of our exercises and homeworks in the class. 
 
-In the Diagrams directory you will find network architecture diagrams created using draw.io as part of our exercises during the weeks of Networking. The one labeled "Cloud Network" is a diagram of a network we built and learned about firewall configurations. The diagram labeled Elk Network Diagram is a representation of the establishment of the ELK server with the virtual networkv and a network peering function in order to monitor the virtual machines. 
+In the Diagrams directory you will find network architecture diagrams created using draw.io as part of our exercises during the weeks of Networking. The one labeled "Cloud Network" is a diagram of a network we built and learned about firewall configurations. The diagram labeled Elk Network Diagram is a representation of the establishment of the ELK server with the virtual network and a network peering function in order to monitor the virtual machines. 
 
 The following narratives below will guide you on the design and implementation of the ELK stack:
 
