@@ -76,10 +76,10 @@ A summary of the access policies in place can be found in the table below.
 
 | Name 	| Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box | No             	| 99.98.161.163   	  |
-|   elk   	| Yes 	           | 10.0.0.6			  |             	
+| Jump Box  | No             	   | 99.98.161.163   	  |
+|   elk   	| No 	               | 10.0.0.6			      |             	
 |   web-1 	| No               	| 10.0.0.6              |
-|   web-2  | Yes 	           | 10.0.0.6			  |             	
+|   web-2   | No 	               | 10.0.0.6			      |             	
 |   web-3 	| No               	| 10.0.0.6              |
 
 ### Elk Configuration
