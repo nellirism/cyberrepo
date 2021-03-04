@@ -127,8 +127,9 @@ This is the command to run the playbook:
 
 Below is a sample findings from using Kibana established through the ELK server:
 
+ELK Diagram
 
-Diagram :https://drive.google.com/file/d/1MAhXze4uWWBvHWH3OTnslo7gPg6GhBkC/view?usp=sharing
+https://github.com/nell-e/cyberrepo/blob/main/Diagrams/ELK%20Diagram%20(1).JPG
 
 Kibana Findings
 Source IP of the Unique Visitor using a number of bytes that is considerably higher than all other usages: 
