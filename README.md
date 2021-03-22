@@ -1,8 +1,6 @@
 # cyberrepo
 Cybersecurity Bootcamp Repository of Nell-e Medina
 
-Cybersecurity Class
-
 Compiled in this repository are some of the activities and homework exercises that we have done in the Cybersecurity bootcamp class. 
 
 In the Ansible directory, you will find three (3) playbooks that were used to configure the ansible containers and the playbooks to install and configure the filebeat and metricbeat applications. 
